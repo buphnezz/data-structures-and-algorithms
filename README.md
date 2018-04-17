@@ -9,6 +9,7 @@ Write a function called reverseArray which takes an array as an argument. Withou
 ## Solution
 ![reverse-an-array](https://user-images.githubusercontent.com/25094584/38903634-a15fcd96-425a-11e8-8c12-5d19f26abad0.jpg)
 
+
 - [x] Do all your work in a public repository called data-structures-and-algorithms
 - [x] Create a branch in your repository called reverse-an-array
 - [x] On your branch, create a file called reverse-an-array, with the proper file extension for your programming language
