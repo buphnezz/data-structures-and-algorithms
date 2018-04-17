@@ -22,12 +22,12 @@
         "props": false
       }
     ],
-    "no-plusplus": [
-      "error",
-      {
-        "allowForLoopAfterthoughts": true
-      }
-    ],
+      "no-plusplus": [
+        "error",
+        {
+          "allowForLoopAfterthoughts": true
+        }
+      ],
     "no-trailing-spaces": "off",
     "linebreak-style": "off",
     "strict": "off"
