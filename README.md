@@ -7,7 +7,8 @@ Reverse the order of multiple arrays.  Do not use any built in methods.
 Write a function called reverseArray which takes an array as an argument. Without utilizing any of the built-in methods available to your language, return the provided array argument with elements in reversed order.
 
 ## Solution
-![reverse-an-array](/linda/users/codefellows/401/data-structures-and-algorithms/assets/reverse-an-array.jpg?raw=true "Reverse an Array Whiteboard")
+![reverse-an-array](https://user-images.githubusercontent.com/25094584/38903634-a15fcd96-425a-11e8-8c12-5d19f26abad0.jpg)
+
 
 - [x] Do all your work in a public repository called data-structures-and-algorithms
 - [x] Create a branch in your repository called reverse-an-array
