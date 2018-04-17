@@ -5,7 +5,7 @@
 Write a function called insertShiftArray which takes in an array and the value to be added. Without utilizing any of the built-in methods available to your language, return an array with the new value added at the middle index.
 
 ## Solution
-
+![shift-array](https://user-images.githubusercontent.com/25094584/38902668-56049826-4256-11e8-8bf7-740a2bb3d4dc.jpg)
 
 - [x] Do all your work in a public repository called shift-array
 - [x] Create a branch in your repository called shift-array
