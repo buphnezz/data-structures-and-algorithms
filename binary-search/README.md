@@ -5,7 +5,8 @@
 Write a function called BinarySearch which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
 
 ## Solution
-[insert image here]
+![binary-search](https://user-images.githubusercontent.com/25094584/38965654-0b9c21e0-4333-11e8-897d-a509e8579700.jpg)
+
 
 
 - [x] Do all your work in a public repository called data-structures-and-algorithms
