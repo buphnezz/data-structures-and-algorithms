@@ -5,7 +5,7 @@
 Write a function called LargestProduct which takes in a 2D array. Without utilizing any of the built-in methods available to your language, return the largest product of 2 adjacent values within the 2D array.
 
 ## Solution
-
+![largest-product-array](https://user-images.githubusercontent.com/25094584/39029848-f9889430-4412-11e8-8b18-0d464da3ff4f.jpg)
 
 - [x] Do all your work in a public repository called largest-product-array
 - [x] Create a branch in your repository called largest-product-array
