@@ -10,7 +10,8 @@ Write the following methods for the Linked List class:
 You have access to the Node class and all the properties on the Linked List class.
 
 ## Solution
-[insert picture]
+![ll_insertions](https://user-images.githubusercontent.com/25094584/39165847-4c0ff1fa-473b-11e8-8bcb-064571223182.jpg)
+
 
 - [x] Do all your work in a public repository called ll_insertions
 - [x] Create a branch in your repository called ll_insertions
