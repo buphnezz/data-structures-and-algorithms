@@ -5,7 +5,8 @@
 Write a method for the Linked List class called kthFromEnd which takes a number, k, as an argument. Return the node that is k from the end of the linked list. 
 
 ## Solution
-[insert picture]
+![ll-kth-from-end](https://user-images.githubusercontent.com/25094584/39224395-06202c20-47fc-11e8-9626-a47b33502dc8.jpg)
+
 
 - [x] Do all your work in a public repository called ll-kth-from-end
 - [x] Create a branch in your repository called ll-kth-from-end
