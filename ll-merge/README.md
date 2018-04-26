@@ -5,7 +5,7 @@
 Write a function called mergeLists which takes two linked lists as arguments. Zip the two linked lists together into one so that the nodes alternate between the two lists and return a reference to the head of the single list. 
 
 ## Solution
-[insert pic]
+![ll-merge](https://user-images.githubusercontent.com/25094584/39286485-0d7f8510-48d3-11e8-9c7c-b39a7ca7e70e.jpg)
 
 
 - [x] Do all your work in a public repository called ll-merge
