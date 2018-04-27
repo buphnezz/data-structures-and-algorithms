@@ -1,11 +1,14 @@
 'use strict';
 
-let reverseArray = [1, 2, 3, 4];
+const origArray = [1, 2, 3, 4];
 
-reverseArray = reverseArray.split;
-
-for ( i = 0; i < reverseArray.length; i++) {
-  reverseArray.join;
+function reverseAnArray(array) {
+  const reversedArray = [];
+  for (let i = array.length - 1; i >= 0; i--) {
+    const position = array.pop();
+    reversedArray.push(position);
+  }
+  return reversedArray;
 }
 
-return reverseArray;
+reverseAnArray(origArray);
