@@ -10,8 +10,5 @@ describe('binary-search.test.js', () => {
     test('binarySearch.search should return -1 if no searchkey is found', () => {
       expect(binarySearch.search([1, 2, 3, 4, 5], 10)).toEqual(-1);
     });
-  })
+  });
 });
-
-
-
