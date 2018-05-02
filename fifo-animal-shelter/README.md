@@ -7,7 +7,7 @@ enqueue(animal): adds animal to the shelter. animal can be either a dog or a cat
 dequeue(pref): returns either a dog or a cat. If pref, a string, is ‘cat’ return the longest-waiting cat. If pref is ‘dog’, return the longest-waiting dog. For anything else, return either a cat or a dog.
 
 ## Solution
-[insert pic]
+![fifo-animal-shelter](https://user-images.githubusercontent.com/25094584/39534310-2e8bdb6a-4de6-11e8-993e-9d7e7c6a88bf.jpg)
 
 
 - [x] Do all your work in a public repository called fifo-animal-shelter
