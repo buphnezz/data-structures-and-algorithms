@@ -3,7 +3,6 @@
 let stringedPreOrder = '';
 
 const preOrderTraversal = (rootNode) => {
-
   if (!rootNode) {
     return undefined;
   }
