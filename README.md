@@ -1,19 +1,17 @@
-# FizzBuzz Tree
+# Find the Maximum Value in a Binary Tree
 
 ## Challenge
-Write a function called FizzBuzzTree which takes a tree as an argument.
-Without utilizing any of the built-in methods available to your language, determine weather or not the value of each node is divisible by 3, 5 or both, and change the value of each of the nodes respectively. Return the tree with it’s news values.
+
+Write a function called find-maximum-value which takes binary tree as its only imput. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
 
 ## Solution
-![fizzbuzztree](https://user-images.githubusercontent.com/25094584/39768203-750d3e92-529d-11e8-82ee-69ead34bd367.jpg)
+![find-maximum-value](https://user-images.githubusercontent.com/25094584/39029848-f9889430-4412-11e8-8b18-0d464da3ff4f.jpg)
 
-
-- [x] Do all your work in a public repository called fizzbuzztree
-- [x] Create a branch in your repository called fizzbuzztree
-- [x] On your branch, create a file called fizzbuzztree.js, with the proper file extension for your programming language
+- [x] Do all your work in a public repository called find-maximum-value
+- [x] Create a branch in your repository called find-maximum-value
+- [x] On your branch, create a file called find-maximum-value.js with the proper file extension for your programming language
 - [x] Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
-- [x] Write a function called FizzBuzzTree which takes a tree as an argument.
-Without utilizing any of the built-in methods available to your language, determine weather or not the value of each node is divisible by 3, 5 or both, and change the value of each of the nodes respectively. Return the tree with it’s news values.
+- [x] Write a function called find-maximum-value which takes binary tree as its only imput. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
 - [x] Take a photo of your completed whiteboard, matching the example whiteboard layout.
 - [x] Copy your photo into an /assets directory in your repo
 - [x] Give the image file the same name as the branch you are working on
