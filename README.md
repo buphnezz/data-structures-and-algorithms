@@ -5,7 +5,7 @@
 Write a function called find-maximum-value which takes binary tree as its only imput. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
 
 ## Solution
-![find-maximum-value](https://user-images.githubusercontent.com/25094584/39029848-f9889430-4412-11e8-8b18-0d464da3ff4f.jpg)
+![find-maximum-value](https://user-images.githubusercontent.com/25094584/39880236-0338464a-5432-11e8-8cba-2582ee51af83.jpg)
 
 - [x] Do all your work in a public repository called find-maximum-value
 - [x] Create a branch in your repository called find-maximum-value
