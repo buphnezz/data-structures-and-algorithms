@@ -1,14 +1,63 @@
 'use strict';
 
-import findMaximumValue from '../find-maximum-value';
+import Node from '../node';
+import BinaryTree from '../binary-tree';
+import findMaxValue from '../find-maximum-value';
 
-describe('findMaximumValue.test.js', () => {
-  describe('findMaximumValue.result', () => {
-    test('findMaximumValue.result should return a -1 if no index value is found', () => {
-      expect(findMaximumValue.result()).toEqual(-1);
-    });
-    test('findMaximumValue.result should not multiply the index value if it is <= the original index value', () => {
-      expect(findMaximumValue.result()).toEqual(-1);
-    });
+describe('#findMaxValue', () => {
+  test('should return null if empty', () => {
+    const tree = new BinaryTree(null);
+    expect(findMaxValue(tree.root)).toBeNull();
+  });
+  test('should search a binary tree and return the highest valued node', () => {
+    const one = new Node(1);
+    const two = new Node(2);
+    const three = new Node(3);
+    const four = new Node(4);
+    const five = new Node(5);
+    const six = new Node(6);
+    const seven = new Node(7);
+    const eight = new Node(8);
+    const nine = new Node(9);
+    const thirty = new Node(30);
+    const tree = new BinaryTree(one);
+
+    one.left = two;
+    one.right = three;
+    three.left = four;
+    three.right = five;
+    two.left = six;
+    six.right = seven;
+    six.left = thirty;
+    seven.left = eight;
+    seven.right = nine;
+
+    expect(findMaxValue(tree.root)).toEqual(30);
+  });
+  test('should return (90)', () => {
+    let tree = null;
+    const one = new Node(1);
+    const two = new Node(2);
+    const three = new Node(3);
+    const ninety = new Node(90);
+    const negFive = new Node(-5);
+    const six = new Node(6);
+    const seven = new Node(7);
+    const eight = new Node(8);
+    const nine = new Node(9);
+    const thirty = new Node(30);
+    tree = new BinaryTree(one);
+
+    one.left = two;
+    one.right = three;
+    three.left = ninety;
+    three.right = negFive;
+    two.left = six;
+    six.right = seven;
+    six.left = thirty;
+    seven.left = eight;
+    seven.right = nine;
+
+    expect(findMaxValue(tree.root)).toEqual(90);
   });
 });
