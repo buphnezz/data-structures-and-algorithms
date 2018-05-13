@@ -7,7 +7,7 @@ Reverse the order of multiple arrays.  Do not use any built in methods.
 Write a function called breadthFirstTraversal which takes a Binary Tree as its unique input. Without utilizing any of the built-in methods available to your language, traverse the input tree using a Breadth-first approach; print every visited node’s value.
 
 ## Solution
-![breadth-First-Traversal](https://user-images.githubusercontent.com/25094584/38903634-a15fcd96-425a-11e8-8c12-5d19f26abad0.jpg)
+![breadth-first-traversal](https://user-images.githubusercontent.com/25094584/39825209-1cfacc5a-5366-11e8-8c58-76df14526c38.jpg)
 
 
 - [x] Do all your work in a public repository called data-structures-and-algorithms
