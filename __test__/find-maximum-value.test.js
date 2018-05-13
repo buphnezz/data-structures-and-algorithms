@@ -5,11 +5,11 @@ import BinaryTree from '../binary-tree';
 import findMaxValue from '../find-maximum-value';
 
 describe('#findMaxValue', () => {
-  test('should return null if empty', () => {
+  test('should return null if BinaryTree is empty', () => {
     const tree = new BinaryTree(null);
     expect(findMaxValue(tree.root)).toBeNull();
   });
-  test('should search a binary tree and return the highest valued node', () => {
+  test('should search through the binary tree and return the node with the highest value', () => {
     const one = new Node(1);
     const two = new Node(2);
     const three = new Node(3);
