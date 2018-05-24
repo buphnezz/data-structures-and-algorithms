@@ -1,17 +1,21 @@
-# Find the Maximum Value in a Binary Tree
+# Find Matches
 
 ## Challenge
 
-Write a function called find-maximum-value which takes binary tree as its only imput. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
+Write a function that takes a k-ary tree with non-unique values and a target value.
+Return a collection of all the nodes from within the tree that match the provided value.
+Avoid utilizing any of the built-in methods available to your language.
 
 ## Solution
-![find-maximum-value](https://user-images.githubusercontent.com/25094584/39880236-0338464a-5432-11e8-8cba-2582ee51af83.jpg)
+[insert pic]
 
-- [x] Do all your work in a public repository called find-maximum-value
-- [x] Create a branch in your repository called find-maximum-value
-- [x] On your branch, create a file called find-maximum-value.js with the proper file extension for your programming language
+- [x] Do all your work in a public repository called find_matches
+- [x] Create a branch in your repository called find_matches
+- [x] On your branch, create a file called find_matches.js with the proper file extension for your programming language
 - [x] Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
-- [x] Write a function called find-maximum-value which takes binary tree as its only imput. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
+- [x] Write a function that takes a k-ary tree with non-unique values and a target value.
+Return a collection of all the nodes from within the tree that match the provided value.
+Avoid utilizing any of the built-in methods available to your language.
 - [x] Take a photo of your completed whiteboard, matching the example whiteboard layout.
 - [x] Copy your photo into an /assets directory in your repo
 - [x] Give the image file the same name as the branch you are working on
