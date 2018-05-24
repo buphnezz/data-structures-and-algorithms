@@ -7,7 +7,8 @@ Return a collection of all the nodes from within the tree that match the provide
 Avoid utilizing any of the built-in methods available to your language.
 
 ## Solution
-[insert pic]
+![find_matches](https://user-images.githubusercontent.com/25094584/40496683-36fd7bdc-5f2f-11e8-9e7e-e023be43552d.jpg)
+
 
 - [x] Do all your work in a public repository called find_matches
 - [x] Create a branch in your repository called find_matches
