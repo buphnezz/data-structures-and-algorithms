@@ -1,21 +1,20 @@
-# Find Matches
+# Repeated Words
 
 ## Challenge
 
-Write a function that takes a k-ary tree with non-unique values and a target value.
-Return a collection of all the nodes from within the tree that match the provided value.
-Avoid utilizing any of the built-in methods available to your language.
+Write a function that accepts a lengthy string parameter.
+Without utilizing any of the built-in library methods available to your language, return the first word to occur more than once in that provided string.
 
 ## Solution
-[insert pic]
+![repeated-words](https://user-images.githubusercontent.com/25094584/40763764-edf74554-645a-11e8-9231-81cb3493065c.jpg)
 
-- [x] Do all your work in a public repository called find_matches
-- [x] Create a branch in your repository called find_matches
-- [x] On your branch, create a file called find_matches.js with the proper file extension for your programming language
+
+- [x] Do all your work in a public repository called repeated_words
+- [x] Create a branch in your repository called repeated_words
+- [x] On your branch, create a file called repeated_words.js with the proper file extension for your programming language
 - [x] Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
-- [x] Write a function that takes a k-ary tree with non-unique values and a target value.
-Return a collection of all the nodes from within the tree that match the provided value.
-Avoid utilizing any of the built-in methods available to your language.
+- [x] Write a function that accepts a lengthy string parameter.
+Without utilizing any of the built-in library methods available to your language, return the first word to occur more than once in that provided string.
 - [x] Take a photo of your completed whiteboard, matching the example whiteboard layout.
 - [x] Copy your photo into an /assets directory in your repo
 - [x] Give the image file the same name as the branch you are working on
