@@ -1,25 +1,19 @@
-# Multi-bracket Validation
+# Tree-Intersection
 
 ## Challenge
 
-Your function should take a string as its only argument, and should return a boolean representing whether or not the brackets in the string are balanced. There are 3 types of brackets:
-
-Round Brackets : ()
-Square Brackets : []
-Curly Brackets : {}
+Write a function called tree_intersection that takes two binary tree parameters.
+Without utilizing any of the built-in library methods available to your language, return a set of values found in both trees.
 
 ## Solution
-![multi-bracket-validation]
+![tree-intersection](https://user-images.githubusercontent.com/25094584/40820396-26b8f7c4-6515-11e8-81b8-e1f540be5512.jpg)
 
-- [x] Do all your work in a public repository called multi-bracket-validation
-- [x] Create a branch in your repository called multi-bracket-validation
-- [x] On your branch, create a file called largest-product, with the proper file extension for your programming language
+- [x] Do all your work in a public repository called tree-intersection
+- [x] Create a branch in your repository called tree-intersection
+- [x] On your branch, create a file called tree-intersection, with the proper file extension for your programming language
 - [x] Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
-- [x] Your function should take a string as its only argument, and should return a boolean representing whether or not the brackets in the string are balanced. There are 3 types of brackets:
-
-Round Brackets : ()
-Square Brackets : []
-Curly Brackets : {}
+- [x] Write a function called tree_intersection that takes two binary tree parameters.
+Without utilizing any of the built-in library methods available to your language, return a set of values found in both trees.
 - [x] Take a photo of your completed whiteboard, matching the example whiteboard layout.
 - [x] Copy your photo into an /assets directory in your repo
 - [x] Give the image file the same name as the branch you are working on
