@@ -1,10 +1,10 @@
 'use strict';
 
-import Queue from './queue.js';
+import Queue from './queue';
 
 const breadthFirstTraversal = (tree) => {
   const queue = new Queue();
-  const valuesInOrder - [];
+  const valuesInOrder = [];
 
   queue.enqueue(tree.root);
   while (!queue.isEmpty()) {
@@ -17,3 +17,5 @@ const breadthFirstTraversal = (tree) => {
   }
   return valuesInOrder;
 };
+
+export default breadthFirstTraversal; 
